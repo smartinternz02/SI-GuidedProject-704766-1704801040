@@ -1,6 +1,5 @@
 # Software-Testing-Automation-With-Katalon
-(To access the full content of the file, please extract the ZIP file provided in the following link:
- https://github.com/smartinternz02/SI-GuidedProject-704766-1704801040/blob/main/SI-GuidedProject-704766-1704801040-main.zip
+(To access the full content of the file, please extract the ZIP file provided
  Once extracted, you'll have access to all the files and resources contained within the project.)
 
 # Amazon
